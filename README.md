@@ -15,7 +15,7 @@ Electronic Engineer and Specialist in Technology Management. I was awarded a mer
 
 ### 📫 How to reach me: 
 * [GitHub as @anblackter (you are here)](https://github.com/anblackter)
-* [LinkedIn](www.linkedin.com/in/angel-henao-322209ba)
+* [LinkedIn](https://www.linkedin.com/in/angel-henao-322209ba)
 
 ### :coffee: Those're my Wakatime times:
 <!--START_SECTION:waka-->
