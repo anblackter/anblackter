@@ -2,12 +2,13 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-Python                     700 hrs 4 mins  ██████████████░░░░░░░░░░░   55.66 %
-Other                      179 hrs 45 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
-HTML                       128 hrs 3 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-PHP                        32 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Bash                       28 hrs 10 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+```rust
+From: 14 June 2021 - To: 13 April 2024
+
+Total Time: 1,077 hrs 58 mins
+
+Python                     700 hrs 4 mins  >>>>>>>>>>>>>>-----------   55.66 %
+Other                      179 hrs 45 mins >>>>---------------------   14.29 %
 ```
 
 <!--END_SECTION:waka-->
