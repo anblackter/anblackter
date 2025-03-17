@@ -21,7 +21,7 @@ Electronic Engineer and Specialist in Technology Management. I was awarded a mer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2021 - To: 15 March 2025
+From: 14 June 2021 - To: 16 March 2025
 
 Total Time: 1,171 hrs 10 mins
 
