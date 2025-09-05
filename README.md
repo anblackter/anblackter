@@ -21,15 +21,15 @@ Electronic Engineer and Specialist in Technology Management. I was awarded a mer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2021 - To: 03 September 2025
+From: 14 June 2021 - To: 04 September 2025
 
-Total Time: 1,722 hrs 55 mins
+Total Time: 1,728 hrs 35 mins
 
-Python                     1,009 hrs 59 mins>>>>>>>>>>>>>------------   52.54 %
-Other                      199 hrs 20 mins >>>----------------------   10.37 %
-HTML                       135 hrs 50 mins >>-----------------------   07.07 %
-YAML                       58 hrs 31 mins  >------------------------   03.04 %
-SQL                        54 hrs 22 mins  >------------------------   02.83 %
+Python                     1,011 hrs 56 mins>>>>>>>>>>>>>------------   52.49 %
+Other                      199 hrs 20 mins >>>----------------------   10.34 %
+HTML                       135 hrs 50 mins >>-----------------------   07.05 %
+YAML                       60 hrs 19 mins  >------------------------   03.13 %
+SQL                        54 hrs 24 mins  >------------------------   02.82 %
 ```
 
 <!--END_SECTION:waka-->
