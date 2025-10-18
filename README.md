@@ -9,8 +9,8 @@ With over 5 years of experience building web applications in Python (Flask, Djan
 Before fully transitioning into software development, I spent 8+ years as a Senior Network Engineer, specializing in network protocols (MPLS, BGP, IP, DHCP), security, and troubleshooting across large-scale telecommunications environments.
 My background as an Electronic Engineer with hands-on experience in Linux and IoT projects shaped my problem-solving mindset and system-level understanding.
 
-🌱 Currently learning: Go, React, Node.js, MongoDB
-💡 Interests: Software architecture, clean code, and backend scalability
+🌱 Currently learning: Go, React, Node.js, MongoDB  
+💡 Interests: Software architecture, clean code, and backend scalability  
 🧠 Goal: Keep improving my engineering skills to design maintainable, high-quality systems
 
 ### 📫 How to reach me: 
