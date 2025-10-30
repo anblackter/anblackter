@@ -21,15 +21,15 @@ My background as an Electronic Engineer with hands-on experience in Linux and Io
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2021 - To: 28 October 2025
+From: 14 June 2021 - To: 29 October 2025
 
-Total Time: 1,920 hrs 29 mins
+Total Time: 1,925 hrs 2 mins
 
-Python                     1,083 hrs 14 mins>>>>>>>>>>>>>------------   51.10 %
-Other                      199 hrs 29 mins >>-----------------------   09.41 %
-HTML                       137 hrs 31 mins >>-----------------------   06.49 %
-YAML                       73 hrs 28 mins  >------------------------   03.47 %
-SQL                        65 hrs 25 mins  >------------------------   03.09 %
+Python                     1,085 hrs 29 mins>>>>>>>>>>>>>------------   51.09 %
+Other                      199 hrs 33 mins >>-----------------------   09.39 %
+HTML                       137 hrs 35 mins >>-----------------------   06.48 %
+YAML                       73 hrs 30 mins  >------------------------   03.46 %
+SQL                        65 hrs 37 mins  >------------------------   03.09 %
 ```
 
 <!--END_SECTION:waka-->
