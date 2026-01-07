@@ -21,7 +21,7 @@ My background as an Electronic Engineer with hands-on experience in Linux and Io
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2021 - To: 04 January 2026
+From: 14 June 2021 - To: 06 January 2026
 
 Total Time: 2,050 hrs 23 mins
 
